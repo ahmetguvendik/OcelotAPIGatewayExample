@@ -30,3 +30,4 @@
 /Users/ahmetguvendik/Desktop/Asp.NetProject/OcelotAPIGatewayExample/Resources/ServiceB/obj/Debug/net9.0/ServiceB.pdb
 /Users/ahmetguvendik/Desktop/Asp.NetProject/OcelotAPIGatewayExample/Resources/ServiceB/obj/Debug/net9.0/ServiceB.genruntimeconfig.cache
 /Users/ahmetguvendik/Desktop/Asp.NetProject/OcelotAPIGatewayExample/Resources/ServiceB/obj/Debug/net9.0/ref/ServiceB.dll
+/Users/ahmetguvendik/Desktop/Asp.NetProject/OcelotAPIGatewayExample/Resources/ServiceB/obj/Debug/net9.0/ServiceB.sourcelink.json

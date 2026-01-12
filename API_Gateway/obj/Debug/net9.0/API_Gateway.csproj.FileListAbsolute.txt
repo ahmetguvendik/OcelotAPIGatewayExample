@@ -41,3 +41,12 @@
 /Users/ahmetguvendik/Desktop/Asp.NetProject/OcelotAPIGatewayExample/API_Gateway/obj/Debug/net9.0/API_Gateway.pdb
 /Users/ahmetguvendik/Desktop/Asp.NetProject/OcelotAPIGatewayExample/API_Gateway/obj/Debug/net9.0/API_Gateway.genruntimeconfig.cache
 /Users/ahmetguvendik/Desktop/Asp.NetProject/OcelotAPIGatewayExample/API_Gateway/obj/Debug/net9.0/ref/API_Gateway.dll
+/Users/ahmetguvendik/Desktop/Asp.NetProject/OcelotAPIGatewayExample/API_Gateway/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/ahmetguvendik/Desktop/Asp.NetProject/OcelotAPIGatewayExample/API_Gateway/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/ahmetguvendik/Desktop/Asp.NetProject/OcelotAPIGatewayExample/API_Gateway/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ahmetguvendik/Desktop/Asp.NetProject/OcelotAPIGatewayExample/API_Gateway/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/ahmetguvendik/Desktop/Asp.NetProject/OcelotAPIGatewayExample/API_Gateway/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ahmetguvendik/Desktop/Asp.NetProject/OcelotAPIGatewayExample/API_Gateway/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ahmetguvendik/Desktop/Asp.NetProject/OcelotAPIGatewayExample/API_Gateway/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ahmetguvendik/Desktop/Asp.NetProject/OcelotAPIGatewayExample/API_Gateway/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ahmetguvendik/Desktop/Asp.NetProject/OcelotAPIGatewayExample/API_Gateway/obj/Debug/net9.0/API_Gateway.sourcelink.json

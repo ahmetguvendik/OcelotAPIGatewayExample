@@ -9,8 +9,28 @@
           "Port": 7060
         }
       ],
-      "UpstreamPathTemplate": "/api1",
-      "UpstreamHttpMethod": [ "GET" ]
+      "UpstreamPathTemplate": "/servicea",
+      "UpstreamHttpMethod": [ "GET" ],
+      "AuthenticationOptions" : {
+        "AllowedScopes" : [],
+        "AuthenticationProviderKey" : "Bearer"
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/test",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7060
+        }
+      ],
+      "UpstreamPathTemplate": "/servicea/test",
+      "UpstreamHttpMethod": [ "GET" ],
+      "AuthenticationOptions": {
+        "AllowedScopes": [],
+        "AuthenticationProviderKey": "Bearer"
+      }
     },
     {
       "DownstreamPathTemplate": "/",
@@ -21,7 +41,7 @@
           "Port": 7203
         }
       ],
-      "UpstreamPathTemplate": "/api2",
+      "UpstreamPathTemplate": "/serviceb",
       "UpstreamHttpMethod": [ "GET" ]
     },
     {
@@ -33,7 +53,7 @@
           "Port": 7236
         }
       ],
-      "UpstreamPathTemplate": "/api3",
+      "UpstreamPathTemplate": "/servicec",
       "UpstreamHttpMethod": [ "GET" ]
     }
   ],
