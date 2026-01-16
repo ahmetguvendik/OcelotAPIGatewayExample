@@ -267,7 +267,6 @@ curl -k -X GET https://localhost:7056/servicea/test \
 ```
 
 **Not:** `-k` parametresi self-signed SSL sertifikaları için gerekir.
-
 ## 🔗 Endpoint'ler
 
 ### API Gateway Endpoint'leri
