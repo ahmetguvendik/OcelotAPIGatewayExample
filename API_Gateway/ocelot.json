@@ -7,10 +7,22 @@
         {
           "Host": "localhost",
           "Port": 7060
+        },
+        {
+          "Host": "localhost",
+          "Port": 7061
+        },
+        {
+          "Host": "localhost",
+          "Port": 7062
         }
+        
       ],
       "UpstreamPathTemplate": "/servicea",
       "UpstreamHttpMethod": [ "GET" ],
+      "LoadBalancerOptions": {
+        "Type" :   "RoundRobin"      
+      },
       "AuthenticationOptions" : {
         "AllowedScopes" : [],
         "AuthenticationProviderKey" : "Bearer"
@@ -23,6 +35,14 @@
         {
           "Host": "localhost",
           "Port": 7060
+        },
+        {
+          "Host": "localhost",
+          "Port": 7061
+        },
+        {
+          "Host": "localhost",
+          "Port": 7062
         }
       ],
       "UpstreamPathTemplate": "/servicea/test",

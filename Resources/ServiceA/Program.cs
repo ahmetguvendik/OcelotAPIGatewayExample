@@ -42,7 +42,7 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 // Service A GET endpoint - JWT gerektirir
-app.MapGet("/", () =>
+app.MapGet("/", () => 
 {
     return Results.Ok(new
     {
